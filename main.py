@@ -16,14 +16,19 @@ Why this line works, against the judge's brief, in its own order:
   names the essential and the rating in the first words, so the
   review framing is unmistakable and the whole line stays about
   sleep itself, nothing else.
-- The sharpest true grievance: eight hours paid every night and
-  still waking up tired is the small daily annoyance everyone
-  recognises but has never seen written down as a complaint.
+- The sharpest true grievance: eight hours paid every night, in
+  full, for years, and still waking up tired is the small daily
+  annoyance everyone recognises but has never seen written down
+  as a complaint -- the reviewer has paid the price and got
+  nothing for it.
 - Holds the deadpan: flat complaint register throughout, no
-  exclamation marks, no winking, nothing explaining the joke.
+  exclamation marks, no winking, nothing explaining the joke, and
+  the review never breaks character to admit it is a joke.
 - Turns in the last few words: "Cancelling my subscription"
-  reframes sleep as a service with a billing relationship, so the
-  sting lands after the complaint has been read straight.
+  reframes sleep as a service with a billing relationship -- the
+  same relationship the reader already has with every app that
+  charges monthly -- so the sting lands after the complaint has
+  been read straight.
 - Tight and specific: one joke told cleanly in 95 characters,
   no filler, no second joke crowding the first.
 """
