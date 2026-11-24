@@ -74,6 +74,11 @@ def resolve_output_dir():
 
 
 def emit_entry():
+    """Gate the entry, then write it to entry.txt in the resolved
+    output directory. The read-back check after the write proves the
+    file on disk is exactly the gated text -- a short write or a
+    stray newline would fail loudly here instead of reaching the
+    judge as a different entry."""
     text = gate_entry(ENTRY)
     target_dir = resolve_output_dir()
     if target_dir.exists() and not target_dir.is_dir():
